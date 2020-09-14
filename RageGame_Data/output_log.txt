@@ -1,0 +1,47 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1429]
+    Renderer: AMD Radeon HD 7800 Series
+    Vendor:   ATI
+    VRAM:     2030 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Rage Game .newChar(copia)\RageGame_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.052 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Rage Game .newChar(copia)\RageGame_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Setting to default shader.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+ｈＥＧＥＺ
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: df0 -> priority: 1 
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2873.
+Total: 2.991560 ms (FindLiveObjects: 0.183414 ms CreateObjectMapping: 0.251781 ms MarkObjects: 2.547328 ms  DeleteObjects: 0.008432 ms)
+
+The number of players playing your game: 10039
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
